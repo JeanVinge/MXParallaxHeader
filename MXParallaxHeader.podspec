@@ -17,10 +17,10 @@ Pod::Spec.new do |s|
 							Moreover, MXScrollViewController allows you to add a MXParallaxHeader to any kind of UIViewController.
                        DESC
 
-  s.homepage         = "https://github.com/maxep/MXParallaxHeader"
+  s.homepage         = "https://github.com/JeanVinge/MXParallaxHeader"
   s.license          = 'MIT'
   s.author           = { "Maxime Epain" => "maxime.epain@gmail.com" }
-  s.source           = { :git => "https://github.com/maxep/MXParallaxHeader.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/JeanVinge/MXParallaxHeader.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/MaximeEpain'
 
   s.platform     = :ios, '7.0'
